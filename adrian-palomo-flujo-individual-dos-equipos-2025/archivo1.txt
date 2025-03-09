@@ -1,1 +1,3 @@
 Este es el contenido modificado del archivo 1
+Editado desde el ordandor B
+
